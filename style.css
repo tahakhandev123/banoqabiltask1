@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    background-color: rgb(61, 61, 65);
+    border-radius: 30px ;
+    width: 100%;
+    
+}
+
+.navbar li{
+  float: left;
+  list-style: none; 
+  margin: 13px 20px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li a {
+   color: #fff; 
+   text-decoration: none;
+   margin-left: 150px;
+}
+   
+
+
+a:hover{
+ background-color: pink;   
+}
+ 
+
+
+
